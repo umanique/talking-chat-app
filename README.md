@@ -1,6 +1,21 @@
 # TALKING - A Simple Chat App for Everyone
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Socket.io](https://img.shields.io/badge/Socket.io-v3.0.1-green.svg)
+![Javascript](https://img.shields.io/badge/NodeJs-v12.15.0-yellow.svg)
+![Javascript](https://img.shields.io/badge/ReactJs-v17.0.1-orange.svg)
+<br>
+<br>
+
 A simple chat app built on [Node.js](https://nodejs.org/) and [Socket.io](https://socket.io/).
+
+
+![picture alt](https://wmuza.github.io/SocketIO-Chat-App/public/img/chat-app.PNG "Chat")
+
+<h3>Images</h3>
+<img src = "https://res.cloudinary.com/nithin/image/upload/v1610686040/Screenshot_355_qzp5j0.png" alt = "signIn page">
+<img src = "https://res.cloudinary.com/nithin/image/upload/v1610686041/Screenshot_354_msf9yx.png" alt = "Chat application page">
+   
 
 ## Pre-requisites
 
@@ -31,6 +46,14 @@ npm run dev
 
 This will start the app and set it up to listen for incoming connections on port 8000. Open up your browser of choice and go to the url [http://localhost:8000/](http://localhost:8000/) to start using the app itself. The `npm run dev` command automatically runs the app using the `nodemon` script so any changes you make to the app's javascript, CSS or HTML code will automatically restart it.
 
+## Features
 
+- User must enter your name. This will inform all the connected users that individual of this name 'Join the chat'.
+- On the other hand, If user leave the chat environment. All the connected users will get message as individual of this name 'left the chat'.
+- This chat app built with good and real user interface design with incoming+outgoing message sound notification.
+- You can send meassage by just press 'Enter' button also. 
 
+### Support or Contact ###
+
+Having trouble with Pages? Feel free to send me a mail at imailumanali@gmail.com
 
