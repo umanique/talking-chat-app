@@ -1,9 +1,11 @@
 # TALKING - A Simple Chat App for Everyone
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Socket.io](https://img.shields.io/badge/Socket.io-v3.0.1-green.svg)
-![Javascript](https://img.shields.io/badge/NodeJs-v12.15.0-yellow.svg)
-![Javascript](https://img.shields.io/badge/ReactJs-v17.0.1-orange.svg)
+![HTML](https://img.shields.io/badge/HTML-5.2-blue)
+![CSS](https://img.shields.io/badge/CSS-3.15-orange)
+![Socket.io](https://img.shields.io/badge/SocketIO-v4.3.1-lightgrey)
+![Javascript](https://img.shields.io/badge/NodeJS-v14.17.6-green)
+![Javascript](https://img.shields.io/badge/JavaScript-ES6%2B-yellowgreen)
 <br>
 <br>
 
