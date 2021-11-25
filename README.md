@@ -1,2 +1,1 @@
-# talking-chat-app
-# talking
+# TALKING - A Simple Chat App for Everyone
