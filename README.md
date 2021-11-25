@@ -10,12 +10,10 @@
 
 A simple chat app built on [Node.js](https://nodejs.org/) and [Socket.io](https://socket.io/).
 
+<h3>Preview Images:</h3>
 
-![picture alt](https://wmuza.github.io/SocketIO-Chat-App/public/img/chat-app.PNG "Chat")
+![picture alt](https://github.com/umanique/talking-chat-app/blob/main/Preview%20Images/1.png)
 
-<h3>Images</h3>
-<img src = "https://res.cloudinary.com/nithin/image/upload/v1610686040/Screenshot_355_qzp5j0.png" alt = "signIn page">
-<img src = "https://res.cloudinary.com/nithin/image/upload/v1610686041/Screenshot_354_msf9yx.png" alt = "Chat application page">
    
 
 ## Pre-requisites
