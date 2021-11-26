@@ -10,10 +10,11 @@
 
 A simple chat app built on [Node.js](https://nodejs.org/) and [Socket.io](https://socket.io/).
 
-<h3>Preview Images:</h3>
+## Preview Image:
 
 ![picture alt](https://github.com/umanique/talking-chat-app/blob/main/Preview%20Images/1.png)
 
+Want to check more images? You can check it out here: [Preview Images](https://github.com/umanique/talking-chat-app/blob/main/Preview%20Images)
    
 
 ## Pre-requisites
@@ -58,7 +59,7 @@ This will start the app and set it up to listen for incoming connections on port
 - This chat app built with good and real user interface design with incoming+outgoing message sound notification.
 - You can send meassage by just press 'Enter' button also. 
 
-### Support or Contact ###
+## Support or Contact
 
 Having trouble with Pages? Feel free to send me a mail at imailumanali@gmail.com
 
